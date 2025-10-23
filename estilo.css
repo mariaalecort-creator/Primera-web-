@@ -1,0 +1,26 @@
+title {
+    font-size: larger;
+    font-family: fantasy;
+    color: cadetblue;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+img {
+    width: 400px;
+    height: auto
+}
+
+p {
+    font-family:'Times New Roman', Times, serif ';
+}
+
+.subparrafo {
+    font-size: 2em;
+}
+
+#final {
+    color: cornflowerblue;
+}
